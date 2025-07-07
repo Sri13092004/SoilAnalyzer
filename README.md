@@ -15,12 +15,6 @@ A smart soil analysis tool that uses deep learning to analyze images of soil and
 
 ---
 
-## 📸 Demo
-
-![App Screenshot](demo/screenshot.png)
-
----
-
 ## 🧑‍💻 Tech Stack
 
 - **Frontend**: Gradio UI
