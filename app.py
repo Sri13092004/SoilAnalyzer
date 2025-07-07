@@ -7,7 +7,7 @@ from PIL import Image
 import google.generativeai as genai
 
 # --- Gemini API setup ---
-GEMINI_API_KEY = "AIzaSyCDkWv9Lw5FiIXTbjfZ4Q26VveoSeQvSgM"  # Replace with a secure method in production
+GEMINI_API_KEY = "YOUR GEMINI API KEY.."  # Replace with a secure method in production
 genai.configure(api_key=GEMINI_API_KEY)
 
 # --- Feature extraction and utility functions ---
