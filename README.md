@@ -11,7 +11,7 @@ A smart soil analysis tool that uses deep learning to analyze images of soil and
 - 💧 Provides an estimated **moisture score**.
 - 🌿 Suggests actionable **recommendations** to improve soil condition.
 - 🧠 Powered by deep learning and computer vision.
-- 🌐 Simple and intuitive web interface (ready for deployment on [Vercel](https://vercel.com)).
+- 🌐 Simple and intuitive web interface (ready for deployment on [Hugging face spaces](https://huggingface.co/spaces)).
 
 ---
 
@@ -20,5 +20,5 @@ A smart soil analysis tool that uses deep learning to analyze images of soil and
 - **Frontend**: Gradio UI
 - **Backend**: Python 
 - **ML/DL Model**: Trained Random forest classifier for classification
-- **Deployment**: [Hugging face spaces], GitHub
+- **Deployment**: [Hugging face spaces](https://huggingface.co/spaces), GitHub
 
